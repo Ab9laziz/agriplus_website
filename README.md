@@ -11,7 +11,7 @@ This is a simple landing page for the agriplus website
 - Open the project using a web browser, preferably Google Chrome.
 
 # Known bugs
-There are no known bugs in this webpage.
+There are no known bugs in this project.
 
 # Technologies used
 1. HTML
