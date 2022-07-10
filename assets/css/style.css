@@ -217,5 +217,25 @@ div a:hover{
 .container6 div img{
     width: 180px;
 }
+                                        /* 6th Section */
+#newest_item{
+    font-family: 'Inter', sans-serif;
+    position: relative;
+    top: 100px;
+    margin-left: 140px;
+}
+
+.container7{
+    display: flex;
+    position: relative;
+    top: 120px;
+    justify-content: space-around;
+}
+.container7 div img{
+    width: 180px;
+}
+
+                                       
+
                                         /* Footer */
 
