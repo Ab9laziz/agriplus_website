@@ -144,7 +144,12 @@ div a:hover{
     /* font-family: 'Poppins', sans-serif; */
     font-family: 'Inter', sans-serif;
 }
-
+    .top{
+        text-align: center;
+    }
+    .top h4{
+        margin: 5px;
+    }
 
                                         /* 3rd Section  */
 #image3{
@@ -192,8 +197,25 @@ div a:hover{
 .container5 p{
     text-align: center;
     font-family: 'Poppins', sans-serif;
-    margin: 30px 0;
+    margin-top: 30px;
+    margin-bottom: 80px;
 }
 
+#most_popular{
+    font-family: 'Inter', sans-serif;
+    position: relative;
+    top: 80px;
+    margin-left: 140px;
+}
+
+.container6{
+    display: flex;
+    position: relative;
+    top: 100px;
+    justify-content: space-around;
+}
+.container6 div img{
+    width: 180px;
+}
                                         /* Footer */
 
