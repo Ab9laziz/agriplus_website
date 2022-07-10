@@ -103,21 +103,20 @@ div a:hover{
     float: right;
     width: 50%;
 }
-.container2{
-    position: relative;
-}
+
+
 .container2 h1{
     font-size: 50px;
     /* position: absolute;
     top: 100px; */
 }
 
-.container2 {
-    font-size: 20px;
-    top: 200px;
-}
+
 .container2{
+    position: relative;
+    top: 200px;
     display: inline;
+    font-size: 20px;
 }
  .button2{
     font-size: 25px;
@@ -135,7 +134,7 @@ div a:hover{
 .container3{
     display: flex;
     position: relative;
-    top: 300px;
+    top: 330px;
     left: 700px;
     justify-content: space-around;
     width: 50%;
@@ -145,3 +144,39 @@ div a:hover{
     /* font-family: 'Poppins', sans-serif; */
     font-family: 'Inter', sans-serif;
 }
+
+
+                                        /* 3rd Section  */
+#image3{
+    float: right;
+    width: 40%;
+    margin-right: 150px;
+    margin-top: 50px;
+}
+.container4{
+    display: inline; 
+    position: relative;
+    top: 150px;   
+}
+.container4 h1{
+    text-align: justify;
+    font-family: 'Inter', sans-serif;
+    /* display: inline; */
+    margin-left: 320px;
+}
+
+.container4 p{
+    text-align: justify;
+    font-family: 'Poppins', sans-serif;
+    margin-top: 40px;
+    margin-left: 320px;
+}
+
+.underlined{
+    text-decoration: underline;
+    text-decoration-color: #ED661F;
+    text-decoration-thickness: 8px;
+    text-underline-offset: 15px;
+}
+                                        /* Footer */
+
