@@ -235,6 +235,16 @@ div a:hover{
     width: 180px;
 }
 
+                                        /* 7th Section */
+
+
+.see_all{
+    float: right;
+    position: relative;
+    top: 100px;
+    right: 50px;
+}
+
                                        
 
                                         /* Footer */
