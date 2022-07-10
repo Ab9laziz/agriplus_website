@@ -4,8 +4,8 @@
 This is a simple landing page for the agriplus website
 # Screenshots
 
-(/assets/images/Screenshot1.png)
-(/assets/images/Screenshot2.png)
+[Screenshot1](/assets/images/Screenshot1.png)
+[screenshot2](/assets/images/Screenshot2.png)
 
 # Setup and installation instructions
 - Clone the repository to your computer from https://github.com/Ab9laziz/agriplus_website
