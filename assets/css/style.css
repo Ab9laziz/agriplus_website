@@ -251,12 +251,16 @@ div a:hover{
 
     left: 150px;  
 }
-/* hr{
-    height: 20px;
-    margin: 50px;
-    font-weight: 900;
-    color: #ED661F;
-} */
+
+
+                                        /* horizontal rule */
+hr{
+    border: #978f8a solid 20px;
+    position: relative;
+    top: 150px;
+    width: 100%;
+    margin bottom: 50px;
+}
 
                                        
 
