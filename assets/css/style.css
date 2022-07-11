@@ -235,7 +235,7 @@ div a:hover{
     width: 180px;
 }
 
-                                        /* 7th Section */
+                                        /* See all Section */
 
 
 .see_all{
@@ -248,7 +248,6 @@ div a:hover{
 
 .gg-arrow-long-right{
     position: relative;
-
     left: 150px;  
 }
 
@@ -257,12 +256,76 @@ div a:hover{
 hr{
     border: #978f8a solid 20px;
     position: relative;
-    top: 150px;
-    width: 100%;
-    margin bottom: 50px;
+    top: 200px;
+    width: 97.5%;
+   
 }
 
-                                       
+                                       /* Feedback section */
+.container8{
+    position: relative;
+    top: 200px;
+}
+.feedback{
+    display: flex;
+    justify-content: space-between;
+    width: 90%;
+    margin: auto;
+    height: 300px;
+    align-items: stretch;
+}
 
-                                        /* Footer */
+
+.checked{
+    color: orange;
+}
+.fa.fa-star{
+    font-size: 50px;
+}
+.container8 h3{
+    font-family: 'Inter', sans-serif;
+    margin-left: 90px;
+    font-size: 25px;
+}
+.feedback h2{
+    font-family: 'Inter', sans-serif;
+    font-size: 22px;
+    display: inline;
+    text-align:justify;
+    position: relative;
+    top: 20px;
+
+}
+
+.flex1,.flex2,.flex3{
+   width: 20%;
+   border: #fafafa solid 5px;
+   text-align: center;
+   border-radius: 5px;
+   box-shadow: 5px 5px 5px #e4e3e3;
+}
+
+.flex1 img{
+    position: relative;
+    top: 60px;
+    right: 115px;
+}
+.flex2 img{
+    position: relative;
+    top: 45px;
+    right: 115px;
+}
+.flex3 img{
+    position: relative;
+    top: 50px;
+    right: 115px;
+}
+
+.flex2 h4{
+    position: relative;
+    bottom: 13px;
+}
+
+
+                                        /* Footer */ 
 
