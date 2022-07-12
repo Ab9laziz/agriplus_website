@@ -381,6 +381,7 @@ a .see_all:hover{
     background-color: black;
     align-items: center;
     margin-bottom: 5px;
+    width: 100%;
 }
 .container10{
     text-align: center;
@@ -438,7 +439,7 @@ a .see_all:hover{
 
 .container16{
     position: relative;
-    top: 350px;
+    top: 400px;
     padding: 10px 0;
     font-family: 'Inter', sans-serif;
     text-align: center;
@@ -494,4 +495,13 @@ a .see_all:hover{
 }
 .fa.fa-facebook:hover{
     color: #ED661F;
+}
+
+.container12{
+    border: #fafafa solid 1px;
+
+}
+.container13{
+    border: #fafafa solid 1px;
+
 }
