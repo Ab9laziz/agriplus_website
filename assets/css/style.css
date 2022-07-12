@@ -452,3 +452,46 @@ a .see_all:hover{
     margin-bottom: 20px;
 
 }
+
+.fa.fa-twitter{
+    border: solid white 1px;
+    margin-right: 20px;
+    margin-left: 50px;
+    font-size: 50px;
+    border-radius: 40px;
+    padding: 20px;
+    background-color: white;
+    color: black;
+    text-decoration: none;
+}
+
+.fa.fa-facebook{
+    border: solid white 1px;
+    margin-right: 20px;
+    font-size: 50px;
+    border-radius: 40px;
+    padding: 20px;
+    background-color: white;
+    color: black;
+    text-decoration: none;
+}
+
+.fa.fa-instagram{
+    border: solid white 1px;
+    font-size: 50px;
+    border-radius: 40px;
+    padding: 20px;
+    background-color: white;
+    color: black;
+    text-decoration: none;
+}
+
+.fa.fa-instagram:hover{
+    color: #ED661F;
+}
+.fa.fa-twitter:hover{
+    color: #ED661F;
+}
+.fa.fa-facebook:hover{
+    color: #ED661F;
+}
