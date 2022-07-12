@@ -330,7 +330,47 @@ hr{
     bottom: 13px;
 }
                                         /* Read More */
+.see_all{
+    float: right;
+    /* position: relative;
+    top: 100px;
+    right: 100px; */
+    color: black;
+}
+a .see_all:hover{
+    color: #ED661F;
+}
 
+
+.gg-arrow-long-right{
+    position: relative;
+    left: 150px;  
+}
+
+.readmore{
+    float: right;
+    position: relative;
+    top: 200px;
+    right: 80px;
+    text-decoration: none;
+    color: black;
+    font-family: 'Inter', sans-serif;
+}
+
+.arrow{
+    float: right;
+    position: relative;
+    top: 240px;
+    right: 20px;
+    color: black;
+}
+
+.arrow:hover{
+    color: #ED661F;
+}
+.readmore:hover{
+    color: #ED661F;
+}
                                         /* Footer */ 
 .container9{
     display: flex;
