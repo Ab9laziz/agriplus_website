@@ -92,7 +92,7 @@ div a:hover{
             /* 2nd Section */
 
 .container1{
-    background-image: url('/assets/images/image1.png');
+    background-image: url('../images/image1.png');
     background-size: contain;
     /* background-repeat: no-repeat; */
     height: 800px;
@@ -504,4 +504,8 @@ a .see_all:hover{
 .container13{
     border: #fafafa solid 1px;
 
+} */
+/* .container13{
+    border: #fafafa solid 1px;
+    background-image: url('https://i.imgur.com/m2GPoD5.jpg');
 } */
