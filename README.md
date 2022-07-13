@@ -9,7 +9,7 @@ This is a simple landing page for the agriplus website
 
 # Setup and installation instructions
 - Clone the repository to your computer from https://github.com/Ab9laziz/agriplus_website
-- Open the project using your preferred code editor, preferably Visual studio Code.
+- Open the project using your preferred code editor, preferably Visual studio.
 - Open the project using a web browser, preferably Google Chrome.
 
 # Known bugs
